@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latih5_TipeDataObjet", "Latih5_TipeDataObjet.csproj", "{FBAEB679-B7CE-48BF-A84D-CBA1120DF902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAEB679-B7CE-48BF-A84D-CBA1120DF902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAEB679-B7CE-48BF-A84D-CBA1120DF902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAEB679-B7CE-48BF-A84D-CBA1120DF902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAEB679-B7CE-48BF-A84D-CBA1120DF902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99026921-B49B-47C2-9560-639DB4194036}
+	EndGlobalSection
+EndGlobal
